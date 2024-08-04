@@ -15,7 +15,7 @@
 		"googleapis": "^37.0.0"
 	},
 	"engines": {
-		"node": "6.9.1"
+		"node": "16.x"
 	},
 	"keywords": [
 		"node",
